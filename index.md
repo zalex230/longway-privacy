@@ -12,7 +12,7 @@ analytics or tracking tools.
   distances to drives and tours, and record your trips. This happens **on your phone**.
 - **Trip history** (routes you drove or walked) is stored **only on your phone**.
 - **Convoys:** while you're in a convoy that's meeting up or on the road, your position is sent live to
-  the other members of that convoy only. If you switch on meet-up sharing, your estimated arrival time is
+  the other members of that convoy only (with your speed and direction, so their maps can show your car moving). If you switch on meet-up sharing, your estimated arrival time is
   sent too. These live positions are **not stored** on our servers.
 - **Home address (optional):** if you set one in your profile, it stays **on your phone** and is never sent
   to us.
@@ -36,7 +36,8 @@ analytics or tracking tools.
 
 If you report a hazard while driving (for example speed bumps or a rail crossing), we receive its type,
 the location where you tapped Report, the drive it was on and your account, so we can improve routes.
-Reports may later be shown to other drivers as warnings, without your name.
+When three different drivers report the same hazard at the same spot, it is shown to other drivers as a
+warning on the map and spoken while driving, without anyone's name.
 
 ## Feedback
 
