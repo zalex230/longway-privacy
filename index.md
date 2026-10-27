@@ -1,6 +1,6 @@
 # Longway Privacy Policy
 
-**Last updated:** October 23, 2026 · **Contact:** through the Send feedback form in the app
+**Last updated:** October 27, 2026 · **Contact:** through the Send feedback form in the app
 
 Longway ("we") makes the Longway app for scenic drives, walking tours and location-based Stories.
 This policy explains what the app collects and why. We don't sell your data, show ads, or use
@@ -31,6 +31,12 @@ analytics or tracking tools.
   live only and **not recorded**.
 - **Car meets:** meets you host (title, place, time) are visible to all Longway drivers; meet chat is
   visible to people who joined the meet. Chat messages are deleted after **30 days**.
+
+## Road hazard reports
+
+If you report a hazard while driving (for example speed bumps or a rail crossing), we receive its type,
+the location where you tapped Report, the drive it was on and your account, so we can improve routes.
+Reports may later be shown to other drivers as warnings, without your name.
 
 ## Feedback
 
