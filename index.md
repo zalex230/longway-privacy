@@ -1,8 +1,9 @@
 # Longway Privacy Policy
 
-**Last updated:** October 27, 2026 · **Contact:** through the Send feedback form in the app
+**Last updated:** November 8, 2026 · **Contact:** through the Send feedback form in the app
 
-Longway ("we") makes the Longway app for scenic drives, walking tours and location-based Stories.
+Longway ("we") makes the Longway app for iPhone and Android, for scenic drives, walking tours and
+location-based Stories.
 This policy explains what the app collects and why. We don't sell your data, show ads, or use
 analytics or tracking tools.
 
@@ -15,7 +16,8 @@ analytics or tracking tools.
   the other members of that convoy only (with your speed and direction, so their maps can show your car moving). If you switch on meet-up sharing, your estimated arrival time is
   sent too. These live positions are **not stored** on our servers.
 - **Home address (optional):** if you set one in your profile, it stays **on your phone** and is never sent
-  to us.
+  to us. To find it, the address you type goes to your phone's address search (Apple on iPhone, Google on
+  Android).
 - Location in background: used only while a Stories session, tour or drive is running.
 
 ## Your account
@@ -47,14 +49,16 @@ choose, your location at the time.
 ## Microphone, motion and notifications
 
 - **Microphone:** only while you hold Talk on a convoy's radio.
-- **Motion:** to estimate steps for your tour results, on your phone.
+- **Motion / physical activity:** to count steps for your tour results, on your phone.
 - **Notifications:** car meet reminders, scheduled on your phone.
 
 ## Services we use
 
 - **Supabase** stores accounts, convoys, car meets, chats and feedback, and relays live convoy positions.
 - **LiveKit** carries convoy radio voice.
-- **Apple Maps** provides maps, directions, places and travel times.
+- **Apple Maps** provides maps, directions, places and travel times on iPhone.
+- On **Android**, maps come from **OpenStreetMap** data served by **OpenFreeMap**, directions are worked
+  out on your phone, and **Google Play** delivers Story and road downloads.
 Each processes data only to provide those features.
 
 ## Keeping and deleting your data
